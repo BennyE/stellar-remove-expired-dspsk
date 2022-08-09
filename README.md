@@ -46,3 +46,11 @@ Please wait...
 
 File /flash/working/vcboot.cfg replaced.
 ```
+# Notification emails
+
+English (language=en):
+![dspsk-english](https://user-images.githubusercontent.com/5174414/183745042-bc310d2c-3f5f-495e-bdd3-c8387f504026.png)
+
+Deutsch (language=de):
+![dspsk-german](https://user-images.githubusercontent.com/5174414/183745143-979435fd-57a0-489f-80b1-ba3fc4e98066.png)
+
