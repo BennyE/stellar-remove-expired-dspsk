@@ -22,7 +22,7 @@ A small helper script meant to run on an Alcatel-Lucent Enterprise OmniSwitch wi
    \ \__\ \__\ \_______\____\_\  \        \ \__\\ _\\ \_______\
     \|__|\|__|\|_______|\_________\        \|__|\|__|\|_______|
                        \|_________|                            
-					                                      OmniSwitch 6465T
+					       OmniSwitch 6465T
 Router-> cat /flash/working/pkg/ams/cron.cfg 
 0 6 * * WED /bin/python3 /flash/python/stellar-remove-expired-dspsk.py
 Router-> show appmgr  
